@@ -15,6 +15,7 @@
 - static data / global data
 - heap
 - stack
+
 https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=justkukaro&logNo=220681279377&categoryNo=9&proxyReferer=
 
 ## CPU 레지스터
@@ -22,7 +23,7 @@ https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=justkukaro&log
 ## C 프로그램이 코드로부터 실행되기 까지의 과정
 - 컴파일러
 - 어셈블러
-- 링커ㅉ
+- 링커
 - 로더
 
 # 4장 Processor
@@ -38,5 +39,6 @@ https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=justkukaro&log
 
 ## Exceptions
 - 어떻게 CPU가 예외를 핸들링하는지 과정
+
 ## Interrupts
 
