@@ -404,3 +404,8 @@ Q. 페이징과 세그먼테이션
 [대학교 필기한 것]  
 [IT 면접 단골 질문](https://medium.com/@Aaron__Kim/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-db-os-nw-e03cdfe07966)  
 [OS 기출](https://hello-cruiser.tistory.com/entry/4-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B8%B0%EC%B6%9C-%ED%95%B5%EC%8B%AC-%EC%9D%91%EC%9A%A9)
+
+---
+
+모르는 사람한테 말하는 거라고 가정했을 때, 꼬리질문 하려면 더 할 수 있을 것 같았다.
+=> 좀 더 디테일하게 설명해주면 좋을 것 같다.
