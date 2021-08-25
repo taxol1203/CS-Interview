@@ -38,3 +38,6 @@
 ## 후보들
 이번주에는 공부 안하셔도 되지만 알아 놓으면 좋은 것들
 DB 락, ORM
+
+## 참고
+https://velog.io/@mrnglory/%EC%A0%95%EC%B2%98%EA%B8%B0-%EC%9A%94%EC%95%BD-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
