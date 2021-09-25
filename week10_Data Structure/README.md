@@ -15,3 +15,7 @@
 - Heap & Priority Queue  
 - Indexed Tree (Segment Tree)   
 - Trie  
+
+## 공부 하는데 도움되는 링크
+
+https://github.com/Seogeurim/CS-study/tree/main/contents/data-structure
